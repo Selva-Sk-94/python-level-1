@@ -15,3 +15,4 @@ TravelAllvance=Salary*5/100
 print("Travelallvance(5 percentage):",TravelAllvance)
 Grass=Salary+Bonas+Overtime+TravelAllvance
 print("Grass paid in Rupees:",Grass)
+
